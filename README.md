@@ -161,8 +161,6 @@ Titanic-Machine-Learning-from-Disaster/
 │                                      # Main notebook: EDA, preprocessing,
 │                                      # model training, tuning and evaluation
 │
-├── train.csv                          # Training dataset
-├── test.csv                           # Competition test dataset
 ├── submission.csv                     # Generated Kaggle predictions
 │
 └── README.md                          # Project documentation
